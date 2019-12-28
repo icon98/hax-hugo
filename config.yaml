@@ -1,6 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
+publishDir: docs
 title: Cupper
 theme: cupper
 googleAnalytics: UA-123456789-1
