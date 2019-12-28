@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cupper</title>
-    <link>https://example.com/tags/</link>
+    <link>https://icon98.github.io/hax-hugo/tags/</link>
     <description>Recent content in Tags on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://icon98.github.io/hax-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/hugo/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>katex</title>
-      <link>https://example.com/tags/katex/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/katex/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/katex/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/katex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://example.com/tags/math/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/math/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/math/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>typesetting</title>
-      <link>https://example.com/tags/typesetting/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/typesetting/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/typesetting/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/typesetting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/markdown/</link>
       <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/shortcodes/</link>
       <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
       
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nasa</title>
-      <link>https://example.com/tags/nasa/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/nasa/</link>
       <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
       
-      <guid>https://example.com/tags/nasa/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/nasa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>quotes</title>
-      <link>https://example.com/tags/quotes/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/quotes/</link>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
-      <guid>https://example.com/tags/quotes/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>command-line</title>
-      <link>https://example.com/tags/command-line/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/command-line/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/command-line/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/command-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>https://example.com/tags/theme/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/theme/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>https://example.com/tags/fun/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/fun/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/fun/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://example.com/tags/git/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/git/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/git/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://example.com/tags/go/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://example.com/tags/templates/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>https://example.com/tags/jekyll/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/jekyll/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>migration</title>
-      <link>https://example.com/tags/migration/</link>
+      <link>https://icon98.github.io/hax-hugo/tags/migration/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/migration/</guid>
+      <guid>https://icon98.github.io/hax-hugo/tags/migration/</guid>
       <description></description>
     </item>
     
