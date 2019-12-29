@@ -2,156 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cupper</title>
-    <link>https://icon98.github.io/hax-hugo/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
     
-	<atom:link href="https://icon98.github.io/hax-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>drink</title>
+      <link>https://example.com/tags/drink/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      
+      <guid>https://example.com/tags/drink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interesting</title>
+      <link>https://example.com/tags/interesting/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      
+      <guid>https://example.com/tags/interesting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>
-      <link>https://icon98.github.io/hax-hugo/tags/hugo/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <link>https://example.com/tags/hugo/</link>
+      <pubDate>Wed, 11 Oct 2017 10:33:41 +0900</pubDate>
       
-      <guid>https://icon98.github.io/hax-hugo/tags/hugo/</guid>
+      <guid>https://example.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>katex</title>
-      <link>https://icon98.github.io/hax-hugo/tags/katex/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Blogging</title>
+      <link>https://example.com/tags/blogging/</link>
+      <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
       
-      <guid>https://icon98.github.io/hax-hugo/tags/katex/</guid>
+      <guid>https://example.com/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>math</title>
-      <link>https://icon98.github.io/hax-hugo/tags/math/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Development</title>
+      <link>https://example.com/tags/development/</link>
+      <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
       
-      <guid>https://icon98.github.io/hax-hugo/tags/math/</guid>
+      <guid>https://example.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>typesetting</title>
-      <link>https://icon98.github.io/hax-hugo/tags/typesetting/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>fast</title>
+      <link>https://example.com/tags/fast/</link>
+      <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
       
-      <guid>https://icon98.github.io/hax-hugo/tags/typesetting/</guid>
+      <guid>https://example.com/tags/fast/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://icon98.github.io/hax-hugo/tags/markdown/</link>
-      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      <title>Go</title>
+      <link>https://example.com/tags/go/</link>
+      <pubDate>Sun, 09 Oct 2016 11:44:14 +0900</pubDate>
       
-      <guid>https://icon98.github.io/hax-hugo/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://icon98.github.io/hax-hugo/tags/shortcodes/</link>
-      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nasa</title>
-      <link>https://icon98.github.io/hax-hugo/tags/nasa/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/nasa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quotes</title>
-      <link>https://icon98.github.io/hax-hugo/tags/quotes/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/quotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>command-line</title>
-      <link>https://icon98.github.io/hax-hugo/tags/command-line/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/command-line/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theme</title>
-      <link>https://icon98.github.io/hax-hugo/tags/theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fun</title>
-      <link>https://icon98.github.io/hax-hugo/tags/fun/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/fun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://icon98.github.io/hax-hugo/tags/git/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>https://icon98.github.io/hax-hugo/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://icon98.github.io/hax-hugo/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jekyll</title>
-      <link>https://icon98.github.io/hax-hugo/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>migration</title>
-      <link>https://icon98.github.io/hax-hugo/tags/migration/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://icon98.github.io/hax-hugo/tags/migration/</guid>
+      <guid>https://example.com/tags/go/</guid>
       <description></description>
     </item>
     
