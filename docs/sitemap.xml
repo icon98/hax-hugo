@@ -4,132 +4,127 @@
   
   <url>
     <loc>https://example.com/blog/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/drink/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/interesting/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/ninth/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/eighth/</loc>
-    <lastmod>2018-10-07T11:40:11+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/seventh/</loc>
-    <lastmod>2018-10-07T11:39:29+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/sixth/</loc>
-    <lastmod>2018-10-07T11:39:25+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/fifth/</loc>
-    <lastmod>2018-10-07T11:39:22+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/fourth/</loc>
-    <lastmod>2018-10-07T11:39:16+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/third/</loc>
-    <lastmod>2018-10-07T11:39:13+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/second/</loc>
-    <lastmod>2018-10-07T11:39:10+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/blog/my-first-post/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/static/imprint/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/static/</loc>
-    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/notes/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/hugo/syntax-highlight/</loc>
-    <lastmod>2017-10-11T10:33:41+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2019-12-28T12:42:15+07:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/blogging/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/development/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/fast/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/go/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/note-1/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/note-2/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/note-3/</loc>
-    <lastmod>2016-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
@@ -139,32 +134,37 @@
   
   <url>
     <loc>https://example.com/notes/sublist/go/go-1/go-1-1/go-1/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/go/go-1/go-2/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/go/go-4/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/go/go-1/go-1-1/go-1-1-1/go-5/</loc>
-    <lastmod>2012-11-01T10:33:41+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/notes/sublist/</loc>
-    <lastmod>2012-10-09T11:44:14+09:00</lastmod>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/post/</loc>
     <lastmod>2019-12-28T12:42:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/notes/</loc>
+    <lastmod>2019-12-29T09:29:56+07:00</lastmod>
   </url>
   
 </urlset>
